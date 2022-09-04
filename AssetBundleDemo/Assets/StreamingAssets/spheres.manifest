@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2823719630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68539f32083f7b115dd6a542fa0eb087
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe3300ad03da4704467714baac3e59be
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/Spheres/Textures/BrickWall29_MR_2K/BrickWall29_2K_Roughness.png
+- Assets/AssetBundles/Spheres/Textures/BrickWall29_MR_2K/BrickWall29_2K_Height.png
+- Assets/AssetBundles/Spheres/Materials/Mat_Yellow.mat
+- Assets/AssetBundles/Spheres/Textures/BrickWall29_MR_2K/BrickWall29_2K_Normal.png
+- Assets/AssetBundles/Spheres/Textures/BrickWall29_MR_2K/BrickWall29_2K_BaseColor.png
+- Assets/AssetBundles/Spheres/Materials/Mat_Red.mat
+- Assets/AssetBundles/Spheres/Meshes/Sphere_1.prefab
+- Assets/AssetBundles/Spheres/Textures/BrickWall29_MR_2K/BrickWall29_2K_AO.png
+- Assets/AssetBundles/Spheres/Meshes/Sphere_2.prefab
+Dependencies:
+- C:/Users/AYDIN/OneDrive/Desktop/AssetBundleDemo/AssetBundles/StandaloneWindows/cubes

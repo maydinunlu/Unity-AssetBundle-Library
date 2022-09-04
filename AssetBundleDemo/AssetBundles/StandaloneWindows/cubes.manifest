@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1051659033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f92af2afc54d7ec25c549fdcb9d09fa5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b081df559ed8ed29db74d1f75abb4071
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a263f33baa2f4efea5652bcd49dae20a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/Cubes/Materials/Mat_Red.mat
+- Assets/AssetBundles/Cubes/Textures/BrickWall29_MR_2K/BrickWall29_2K_Roughness.png
+- Assets/AssetBundles/Cubes/Materials/Mat_Yellow.mat
+- Assets/AssetBundles/Cubes/Textures/BrickWall29_MR_2K/BrickWall29_2K_BaseColor.png
+- Assets/AssetBundles/Cubes/Textures/BrickWall29_MR_2K/BrickWall29_2K_Height.png
+- Assets/AssetBundles/Cubes/Meshes/Cube_2.prefab
+- Assets/AssetBundles/Cubes/Textures/BrickWall29_MR_2K/BrickWall29_2K_Normal.png
+- Assets/AssetBundles/Cubes/Meshes/Cube_1.prefab
+- Assets/AssetBundles/Cubes/Textures/BrickWall29_MR_2K/BrickWall29_2K_AO.png
+Dependencies: []
